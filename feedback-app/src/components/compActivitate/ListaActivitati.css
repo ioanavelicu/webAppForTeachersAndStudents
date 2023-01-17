@@ -1,0 +1,30 @@
+html {
+    background-color: rgb(172, 216, 244);
+}
+
+table {
+	border: 2px solid rgb(110, 45, 122);
+	border-collapse: collapse;
+	
+	text-align: left;
+	
+	width: 500pt;
+    background-color: #efcdf3;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+caption {
+	padding: 8px 12px;
+	border: 2px solid rgb(110, 45, 122);
+	border-bottom: none;
+	background-color: #e9aff1;
+	font-weight: bold;
+    font-size: 18pt;
+}
+
+th {
+	padding: 8px 12px;
+	border-bottom: 1px solid Gray;
+}

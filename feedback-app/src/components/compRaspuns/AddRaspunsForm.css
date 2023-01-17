@@ -1,0 +1,67 @@
+.raspuns {
+    border: 2.5px solid rgb(72, 18, 110);
+    padding: 20pt;
+    height: 130pt;
+    margin: auto;
+}
+
+.raspuns:hover{
+    background-color: rgba(170, 58, 210, 0.538);
+}
+
+.indicatii {
+    background-color: rgb(172, 216, 244);
+    border-style: none;
+    height: 80pt;
+    width: 500pt;
+    font-size: 16pt;
+    text-align: center;
+    font-family: Garamond;
+    font-weight: bold;
+    color: rgb(6, 6, 78);
+    margin: auto;
+    display: block;
+    margin-top: -10pt;
+    margin-bottom: -50pt;
+    resize: none;
+}
+
+.addRapunsText {
+    background-color: rgb(172, 216, 244);
+    border-style: none;
+    height: 140pt;
+    font-size: 50pt;
+    text-align: center;
+    font-family: Garamond;
+    font-weight: bold;
+    color: rgb(6, 6, 78);
+    margin: auto;
+    display: block;
+    width: fit-content;
+    margin-top: 10pt;
+    margin-bottom: -30pt;
+    resize: none;
+}
+
+.raspunsuriLinia1 {
+    height: 172pt;
+    margin-top: -15pt;
+}
+
+.raspunsuriLinia2 {
+    height: 172pt;
+}
+
+.btnAddRaspuns {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin: auto;
+    background-color: rgb(201, 82, 231);
+    margin-top: 20pt;
+    border: 3px solid rgb(142, 43, 167);
+}
+
+.btnAddRaspuns:hover {
+    background-color: rgba(201, 82, 231, 0.532);
+}

@@ -1,0 +1,36 @@
+html {
+    background-color: rgb(172, 216, 244);
+}
+
+.activitate {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16pt;
+}
+
+table {
+	border: 1px solid Gray;
+	border-collapse: collapse;
+	text-align: left;
+	width: 500pt;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+	padding: 8px 12px;
+    width: 55pt;
+}
+
+.btnVeziRaspunsuri {
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin: auto;
+    background-color: rgba(116, 11, 245, 0.355);
+    text-align: center;
+    border: 1px solid rgba(116, 11, 245, 0.636);
+}
+
+.btnVeziRaspunsuri:hover {
+    background-color: rgba(116, 11, 245, 0.174);
+}

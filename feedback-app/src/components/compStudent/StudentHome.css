@@ -1,0 +1,69 @@
+html {
+    background-color: rgb(172, 216, 244);
+    text-align: center;
+}
+
+.student_id {
+    background-color: rgb(172, 216, 244);
+    border-style: none;
+    height: 130pt;
+    font-size: 50pt;
+    text-align: center;
+    font-family: Garamond;
+    font-weight: bold;
+    color: rgb(6, 6, 78);
+    margin: auto;
+    display: block;
+    width: fit-content;
+    margin-bottom: -25pt;
+}
+
+.insertCodActivitate {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    display: block;
+    background-color: rgb(239, 190, 239);
+}
+
+.btnRaspunde, .btnHome {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    background-color: rgb(201, 82, 231);
+    margin-top: 12pt;
+    border: 2.5px solid rgb(145, 58, 166);
+    margin-left: 2pt;
+    margin-bottom: 15pt;
+}
+
+.btnRaspunde:hover {
+    background-color: rgba(201, 82, 231, 0.644);
+}
+
+.btnHome:hover {
+    background-color: rgba(201, 82, 231, 0.644);
+}
+
+.listaActivitati {
+    margin-bottom: 10pt;
+}
+
+caption {
+    text-align: left ;
+}
+
+.indicatieStudent {
+    background-color: rgb(172, 216, 244);
+    border-style: none;
+    font-size: 16pt;
+    text-align: center;
+    font-family: Garamond;
+    font-weight: bold;
+    color: rgb(6, 6, 78);
+    margin: auto;
+    display: block;
+    width: 250pt;
+    resize: none;
+}
+

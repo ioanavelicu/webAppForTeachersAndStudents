@@ -1,0 +1,29 @@
+.reactie {
+    border: 2.5px solid rgb(72, 18, 110);
+    padding: 10pt;
+    padding-left: 35pt;
+    padding-right: 35pt;
+    height: 50pt;
+    margin: auto;
+    border-bottom: 0;
+    margin-bottom: -4pt;
+    background-color: rgba(224, 172, 244, 0.63);
+    margin-right: 2pt;
+}
+
+.moment {
+    border: 2.5px solid rgb(72, 18, 110);
+    border-top: none;
+    background-color: rgba(224, 172, 244, 0.63);
+    color: black;
+    margin: auto;
+    margin-bottom: 10pt;
+    width: 116.7pt;
+    text-align: center;
+    font-weight: bold;
+    margin-left: -2pt;
+}
+
+.divReactie{
+    float: left;
+}

@@ -1,0 +1,49 @@
+html {
+    background-color: rgb(172, 216, 244);
+}
+
+.feedback-app {
+    background-color: rgb(172, 216, 244);
+    border-style: none;
+    height: 140pt;
+    font-size: 50pt;
+    text-align: center;
+    font-family: Garamond;
+    font-weight: bold;
+    color: rgb(6, 6, 78);
+    margin: auto;
+    display: block;
+    width: fit-content;
+}
+
+.loginForm {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    display: block;
+    background-color: rgb(239, 190, 239);
+    margin-bottom: 12pt;
+}
+
+.btnLogin {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    background-color: rgb(201, 82, 231);
+    margin-top: 12pt;
+    border: 2.5px solid rgb(145, 58, 166);
+    margin-left: 2pt;
+}
+
+.btnLogin:hover {
+    background-color: rgba(201, 82, 231, 0.644);
+}
+
+.signUpLing {
+    display: block;
+    font-size: 40pt;
+}
+
+.signUpLing:hover{
+    color: blueviolet;
+}

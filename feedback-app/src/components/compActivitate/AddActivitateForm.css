@@ -1,0 +1,83 @@
+html {
+    background-color: rgb(172, 216, 244);
+}
+
+.adaugaActivitate {
+    background-color: rgb(172, 216, 244);
+    border-style: none;
+    height: 200px;
+    font-size: 50pt;
+    text-align: center;
+    font-family: Garamond;
+    font-weight: bold;
+    color: rgb(6, 6, 78);
+    margin: auto;
+    display: block;
+    width: fit-content;
+}
+
+.addActivitateForm {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    display: block;
+    background-color: rgb(239, 190, 239);
+    margin-bottom: 15px;
+    width: 500pt;
+}
+
+.btnAddActivitate {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    background-color: rgb(201, 82, 231);
+    margin-bottom: 20pt;
+    border: 2.5px solid rgb(142, 43, 167);
+}
+
+.btnAddActivitate:hover {
+    background-color: rgba(201, 82, 231, 0.532);
+}
+
+.id-profesor {
+    background-color: rgb(172, 216, 244);
+    border-style: none;
+    height: 70pt;
+    font-size: 40pt;
+    text-align: center;
+    font-family: Garamond;
+    font-weight: bold;
+    color: rgb(6, 6, 78);
+    margin: auto;
+    display: block;
+    width: fit-content;
+    margin-bottom: 20pt;
+}
+
+.addActivitateText {
+    background-color: rgb(172, 216, 244);
+    border-style: none;
+    height: 70pt;
+    font-size: 50pt;
+    text-align: center;
+    font-family: Garamond;
+    font-weight: bold;
+    color: rgb(6, 6, 78);
+    margin: auto;
+    display: block;
+    width: fit-content;
+}
+
+.indicatie {
+    background-color: rgb(172, 216, 244);
+    border-style: none;
+    font-size: 16pt;
+    text-align: center;
+    font-family: Garamond;
+    font-weight: bold;
+    color: rgb(6, 6, 78);
+    margin: auto;
+    display: block;
+    width: 250pt;
+    resize: none;
+}
